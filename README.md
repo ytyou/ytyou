@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Yongtao You. I'm an independent software professional.
-- 👀 I’m currently working on open source dev op tools, such as TSDB.
+- 👀 I’m currently working on an open source dev op tool called TickTockDB.
 - 📫 I can be reached at yongtao.you@gmail.com
 
 <!---
